@@ -1,2 +1,2 @@
 # python_learning
-Python lessons
+Python lessons + practice
